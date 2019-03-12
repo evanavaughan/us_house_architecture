@@ -1,7 +1,7 @@
 # Image Classification of U.S. Houses by Architectural Style
 
 
-<a href="https://docs.google.com/presentation/d/146CwODfn3S-L76YJyHTYijgxkbNTwpcFsCHCUBUoOek/edit#slide=id.p" target="_blank">Link to Powerpoint Presentation</a>.</h4>
+[Link to Powerpoint Presentation](https://docs.google.com/presentation/d/146CwODfn3S-L76YJyHTYijgxkbNTwpcFsCHCUBUoOek/edit#slide=id.p)
 
 ## Built With
 
