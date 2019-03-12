@@ -1,26 +1,13 @@
 # Image Classification of U.S. Houses by Architectural Style
 
-Intro paragraph
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Data Sources
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
+Link to slide presentation :
+https://docs.google.com/presentation/d/146CwODfn3S-L76YJyHTYijgxkbNTwpcFsCHCUBUoOek/edit#slide=id.p
 
 ## Built With
 
-* [Google Cloud](https://cloud.google.com/) - The GPU servers used to host 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+* [Google Cloud](https://cloud.google.com/) - GPU servers used to train Convolutional Neural Network
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - Open source deep learning library
+* [Google Images Download](https://github.com/hardikvasa/google-images-download) - Web-scraper for Google Images
 
 ## Author
 
