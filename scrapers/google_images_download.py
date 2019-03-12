@@ -149,7 +149,8 @@ class googleimagesdownload:
                     response = urlopen(req, context=context)
                 page = response.read()
                 return page
-            except:
+           
+        except:
                 print("Could not open URL. Please check your internet connection and/or ssl settings")
                 return "Page Not found"
 
